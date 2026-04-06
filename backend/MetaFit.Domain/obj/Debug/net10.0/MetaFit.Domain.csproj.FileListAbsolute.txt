@@ -1,0 +1,11 @@
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\bin\Debug\net10.0\MetaFit.Domain.deps.json
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\bin\Debug\net10.0\MetaFit.Domain.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\bin\Debug\net10.0\MetaFit.Domain.pdb
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.AssemblyInfoInputs.cache
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.AssemblyInfo.cs
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\refint\MetaFit.Domain.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\MetaFit.Domain.pdb
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Domain\obj\Debug\net10.0\ref\MetaFit.Domain.dll

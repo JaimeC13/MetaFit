@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MetaFit.Api/MetaFit.Api.csproj" />
+  <Project Path="MetaFit.Application/MetaFit.Application.csproj" />
+  <Project Path="MetaFit.Domain/MetaFit.Domain.csproj" />
+  <Project Path="MetaFit.Infrastructure/MetaFit.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,17 @@
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Application.deps.json
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Application.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Application.pdb
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Domain.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Domain.pdb
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.csproj.AssemblyReference.cache
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.AssemblyInfoInputs.cache
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.AssemblyInfo.cs
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit..D05AEFD8.Up2Date
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\refint\MetaFit.Application.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\MetaFit.Application.pdb
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\obj\Debug\net10.0\ref\MetaFit.Application.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Infrastructure.dll
+C:\Users\jaime\Downloads\metaFit\backend\MetaFit.Application\bin\Debug\net10.0\MetaFit.Infrastructure.pdb
